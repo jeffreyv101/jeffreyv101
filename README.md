@@ -5,16 +5,6 @@ Incoming **IT Analyst** in **Genworth Financial’s Information Technology Devel
 
 ---
 
-## 🧭 About Me
-
-I believe the best technology doesn’t just work — it **helps people thrive**.
-
-I’m a Computer Science student with a strong interest in cloud engineering, data systems, automation, and AI, but what truly motivates me is using those tools to **support others, create clarity, and drive meaningful impact**. I care deeply about doing things well and doing them *the right way* — with empathy, curiosity, and integrity.
-
-Whether I’m building software, leading student teams, or mentoring peers, I aim to bring **excellence in execution** and a **genuine investment in people** to everything I do.
-
----
-
 ## 💡 What I Value
 
 - **Excellence over shortcuts** – clean design, thoughtful architecture, and maintainable solutions  
@@ -58,9 +48,3 @@ Whether I’m building software, leading student teams, or mentoring peers, I ai
 
 - 🌍 Portfolio: [jeffreyv101.dev](https://jeffreyv101.dev)
 - 💼 LinkedIn: [linkedin.com/in/jeffrey-vandever](https://linkedin.com/in/jeffrey-vandever)
-
----
-
-> *“Technology reaches its full potential when it empowers people.”*
-
-[![Jeffrey Vandever's GitHub stack](https://github-readme-stats.vercel.app/api/top-langs?username=jeffreyv101&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true)](https://github.com/jeffreyv101)
