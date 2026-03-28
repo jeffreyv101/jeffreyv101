@@ -1,7 +1,6 @@
 # 👋 Hi, I’m Jeffrey Vandever
 
 **People-first technologist focused on building excellent, human-centered systems.**  
-Incoming **IT Analyst** in **Genworth Financial’s Information Technology Development Program (Summer 2026)**.
 
 ---
 
@@ -21,26 +20,6 @@ Incoming **IT Analyst** in **Genworth Financial’s Information Technology Devel
 - **Application Development:** Python, JavaScript/TypeScript, FastAPI, Next.js  
 - **AI & Automation:** LLM-powered applications, workflow automation  
 - **Leadership & Communication:** mentoring, documentation, project coordination  
-
----
-
-## 🧠 How I Think
-
-| 🧠 Thinking Big Picture | 💡 Problem-Driven |
-|------------------------|------------------|
-| Software is more than code — scalability, deployment, UX, and people all matter. | I’m not interested in copy-paste projects. I care about *what’s needed* and *why*. |
-
-| 🤝 Others-Focused | ⚡ Quick to Learn |
-|------------------|-----------------|
-| I strive to be empathetic, supportive, and a strong teammate and teacher. | I enjoy learning new technologies and asking questions — especially when it’s uncomfortable. |
-
----
-
-## 🚀 What I’m Working Toward
-
-- Growing as a **technology leader** who bridges technical systems and human needs  
-- Exploring how **AI, data, and automation** can be deployed responsibly and clearly  
-- Building a career centered on **learning, service, and long-term impact**
 
 ---
 
